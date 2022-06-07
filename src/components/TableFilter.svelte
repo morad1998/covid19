@@ -1,1 +1,1 @@
-<h1>Table Filters</h1>
+<h1>Table Filter</h1>

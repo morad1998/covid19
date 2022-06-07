@@ -1,1 +1,1 @@
-<h1>Covid Chart components</h1>
+<h1>Covid Chart</h1>

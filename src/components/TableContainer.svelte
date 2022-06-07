@@ -1,9 +1,9 @@
 <script>
-    import Table from './Table.svelte';
-    import TableFilter from './TableFilter.svelte';
+  import TableFilter from "./TableFilter.svelte";
+  import Table from "./Table.svelte";
 </script>
 
-<h1>Table Containers</h1>
-<Table/>
-<TableFilter/>
+<h1>Table Container</h1>
 
+<TableFilter />
+<Table />

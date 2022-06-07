@@ -1,1 +1,1 @@
-<h1>Tables</h1>
+<h1>Table</h1>
