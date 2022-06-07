@@ -1,0 +1,1 @@
+<h1>Covid Stat components</h1>

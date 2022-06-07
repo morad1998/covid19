@@ -1,0 +1,1 @@
+<h1>Covid Chart components</h1>
